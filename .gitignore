@@ -1,0 +1,15 @@
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+*/
+
+# temporary file
+*~
+~.swp
+
+# 
+.DS_Store
